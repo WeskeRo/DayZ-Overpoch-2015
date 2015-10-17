@@ -9,7 +9,7 @@ enableSaving [false, false];
 //REALLY IMPORTANT VALUES
 dayZ_instance =	24;				//The instance
 dayzHiveRequest = [];
-initialized = false;
+initialized = true;
 dayz_previousID = 0;
 
 //disable greeting menu 
