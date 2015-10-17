@@ -31,7 +31,7 @@ class Category_512 {
 	};
 	class UH1Y_DZE {
 		type = "trade_any_vehicle";
-		buy[] =400000,"Coins"};
+		buy[] ={400000,"Coins"};
 		sell[] ={100000,"Coins"};
 	};
 	class MH60S_DZE {
@@ -48,4 +48,6 @@ class Category_512 {
 		type = "trade_any_vehicle";
 		buy[] ={500000,"Coins"};
 		sell[] ={100000,"Coins"};
-	};		
+	};
+	
+};		
