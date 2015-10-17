@@ -41,3 +41,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+@DayZ_Epoch_Server/addons/dayz_server.pbo
+*.bak
+@DayZ_Epoch_Server/addons/dayz_server.pbo
