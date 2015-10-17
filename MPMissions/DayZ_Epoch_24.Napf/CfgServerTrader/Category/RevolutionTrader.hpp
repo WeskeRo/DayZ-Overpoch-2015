@@ -494,7 +494,7 @@ class Category_699 {
 
 class Category_702 {
 
-		class MTVR_Reammo_DES_EP1 {
+		class MtvrReammo_DES_EP1 {
 		type = "trade_any_vehicle";
 		buy[] = {1000000,"Coins"};
 		sell[] = {850000,"Coins"};

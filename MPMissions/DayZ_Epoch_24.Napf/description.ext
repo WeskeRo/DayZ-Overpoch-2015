@@ -63,7 +63,7 @@ class CfgSounds
 {
     sounds[] =
     {
-		introSong, dance1, dance2, dance3, nam, eve, puk, ZEVMissionMoney1
+		introSong, dance1, dance2, dance3, ZEVMissionMoney1
     };
     class introSong
     {
@@ -89,24 +89,6 @@ class CfgSounds
 		sound[]={custom\ActionMenu\fun\dance3.ogg,0.9,1};
 		titles[] = {};
     };
-	class nam
-	{	
-		name = "Siren1";
-		sound[] = {Nuke\sound\SirenLoopMono.ogg, db+20, 1.0};
-		titles[] = {""};
-	};
-	class eve
-	{
-		name = "Siren2";
-		sound[] = {Nuke\sound\Sirens.ogg, db+20, 1.0};
-		titles[] = {""};
-	};
-	class puk
-	{
-		name = "Siren3";
-		sound[] = {Nuke\sound\Sirens2.ogg, db+20, 1.0};
-		titles[] = {""};
-	};
 	class ZEVMissionMoney1
 	{
 		name = "money1";
