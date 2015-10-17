@@ -39,4 +39,19 @@ class Category_493 {
 		buy[] ={400000,"Coins"};
 		sell[] ={200000,"Coins"};
 	};
-};
+	class AH6J_EP1_DZE {
+		type = "trade_any_vehicle";
+		buy[] ={400000,"Coins"};
+		sell[] ={200000,"Coins"};
+	};
+	class pook_H13_gunship_CDF {
+		type = "trade_any_vehicle";
+		buy[] ={100000,"Coins"};
+		sell[] ={50000,"Coins"};
+	};
+	class Ka137_MG_PMC {
+		type = "trade_any_vehicle";
+		buy[] ={400000,"Coins"};
+		sell[] ={150000,"Coins"};	
+	};	
+};	

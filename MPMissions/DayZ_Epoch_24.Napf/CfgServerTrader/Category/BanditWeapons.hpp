@@ -1,13 +1,13 @@
 class Category_627 {
 	class G36_C_SD_camo {
 		type = "trade_weapons";
-		buy[] ={2500,"Coins"};
-		sell[] ={1250,"Coins"};
+		buy[] ={15000,"Coins"};
+		sell[] ={4000,"Coins"};
 	};
 	class M4A1_AIM_SD_camo {
 		type = "trade_weapons";
-		buy[] ={5000,"Coins"};
-		sell[] ={2500,"Coins"};
+		buy[] ={20000,"Coins"};
+		sell[] ={5000,"Coins"};
 	};
 	class FN_FAL_ANPVS4 {
 		type = "trade_weapons";
@@ -39,4 +39,10 @@ class Category_627 {
 		buy[] ={20000,"Coins"};
 		sell[] ={10000,"Coins"};
 	};
+	class BAF_LRR_scoped_W {
+		type = "trade_weapons";
+		buy[] ={75000,"Coins"};
+		sell[] ={20000,"Coins"};
+	};	
+		
 };

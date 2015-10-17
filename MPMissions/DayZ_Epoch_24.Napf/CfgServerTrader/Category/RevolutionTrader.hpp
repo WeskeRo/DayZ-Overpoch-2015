@@ -28,7 +28,14 @@ class Category_693 {
 		type = "trade_any_vehicle";
 		buy[] = {4000000,"Coins"};
 		sell[] = {2500000,"Coins"};
-		};		
+		};	
+		
+		class L39_TK_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {5000000,"Coins"};
+		sell[] = {2500000,"Coins"};
+		};	
+		
 };
 
 
@@ -52,6 +59,85 @@ class Category_694 {
 		buy[] = {30000,"Coins"};
 		sell[] = {20000,"Coins"};
 		};
+		
+		class DMR {
+		type = "trade_weapons";
+		buy[] = {30000,"Coins"};
+		sell[] = {1000,"Coins"};
+		};
+		     
+	    class DMR_SKN {
+		type = "trade_weapons";
+		buy[] = {30000,"Coins"};
+		sell[] = {1000,"Coins"};
+		};	
+		
+		class BAF_AS50_scoped_DZ {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
+		class m107_SKN {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
+		class BAF_AS50_TWS {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
+		class BAF_AS50_TWS_Large {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
+		class PMC_AS50_TWS_Large {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
+		class PMC_AS50_scoped_Large {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
+		class BAF_AS50_scoped_Large {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
+		class m107 {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
+		class M107_DZ {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
+		class m107_TWS_EP1 {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
+		class m107_TWS_EP1_DZ {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {40000,"Coins"};
+		};	
+		
 };
 
 
@@ -61,16 +147,19 @@ class Category_695 {
 		buy[] = {70000,"Coins"};
 		sell[] = {20000,"Coins"};
 		};
+		
 		class PG7VL {
 		type = "trade_items";
 		buy[] = {80000,"Coins"};
 		sell[] = {20000,"Coins"};
 		};
+		
 		class PG7VR {
 		type = "trade_items";
 		buy[] = {90000,"Coins"};
 		sell[] = {20000,"Coins"};
 		};
+		
 		class OG7 {
 		type = "trade_items";
 		buy[] = {80000,"Coins"};
@@ -131,6 +220,24 @@ class Category_695 {
 		sell[] = {500,"Coins"};
 		};	
 
+	class 5Rnd_127x99_AS50 {
+		type = "trade_items";
+		buy[] = {4000,"Coins"};
+		sell[] = {1000,"Coins"};
+		};		
+		
+	class 10Rnd_127x99_m107 {
+		type = "trade_items";
+		buy[] = {4000,"Coins"};
+		sell[] = {1000,"Coins"};
+		};	
+
+	class 20Rnd_762x51_DMR {
+		type = "trade_items";
+		buy[] = {1000,"Coins"};
+		sell[] = {100,"Coins"};
+		};	
+	
 };
 
 
@@ -201,6 +308,61 @@ class Category_696 {
 		buy[] = {3500000,"Coins"};
 		sell[] = {1000000,"Coins"};
 		};
+	
+		class BMP2_HQ_CDF {
+		type = "trade_any_vehicle";
+		buy[] = {4000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class T72_INS {
+		type = "trade_any_vehicle";
+		buy[] = {5000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};	
+		
+		class M1A2_TUSK_MG {
+		type = "trade_any_vehicle";
+		buy[] = {6000000,"Coins"};
+		sell[] = {2500000,"Coins"};
+		};	
+		
+		class T34 {
+		type = "trade_any_vehicle";
+		buy[] = {4000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class BMP3 {
+		type = "trade_any_vehicle";
+		buy[] = {4000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class T55_TK_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {5000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class ZU23_TK_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {3000000,"Coins"};
+		sell[] = {500000,"Coins"};
+		};
+		
+		class T90 {
+		type = "trade_any_vehicle";
+		buy[] = {5000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class AAV {
+		type = "trade_any_vehicle";
+		buy[] = {6000000,"Coins"};
+		sell[] = {2000000,"Coins"};
+		};
+		
 };
 
 class Category_697 {
