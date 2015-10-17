@@ -231,12 +231,6 @@ class Category_695 {
 		buy[] = {4000,"Coins"};
 		sell[] = {1000,"Coins"};
 		};	
-
-	class 20Rnd_762x51_DMR {
-		type = "trade_items";
-		buy[] = {1000,"Coins"};
-		sell[] = {100,"Coins"};
-		};	
 	
 };
 
