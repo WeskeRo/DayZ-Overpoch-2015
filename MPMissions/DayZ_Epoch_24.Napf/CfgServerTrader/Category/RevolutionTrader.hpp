@@ -150,7 +150,7 @@ class Category_694 {
 		sell[] = {100000,"Coins"};
 		};
 		
-		class Vil_PRO_A {
+		class Vil_RPO_A {
 		type = "trade_weapons";
 		buy[] = {400000,"Coins"};
 		sell[] = {100000,"Coins"};
