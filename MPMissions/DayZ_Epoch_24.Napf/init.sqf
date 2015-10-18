@@ -109,7 +109,7 @@ if (!isDedicated) then {
 	_playerMonitor = 	[] execVM "\z\addons\dayz_code\system\player_monitor.sqf";	
 	[] execVM "spawn\start.sqf";
 	[] execVM "dzgm\init.sqf";
-	[] execVM "Nuke\Effects\effects.sqf";
+	//[] execVM "Nuke\Effects\effects.sqf";
 
 	//Lights
 	//[false,12] execVM "\z\addons\dayz_code\compile\local_lights_init.sqf";
