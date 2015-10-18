@@ -44,7 +44,7 @@ class Category_694 {
 
 		class RPG7V {
 		type = "trade_weapons";
-		buy[] = {200000,"Coins"};
+		buy[] = {100000,"Coins"};
 		sell[] = {100000,"Coins"};
 		};
 		
@@ -86,20 +86,20 @@ class Category_694 {
 		
 		class BAF_AS50_TWS {
 		type = "trade_weapons";
-		buy[] = {400000,"Coins"};
-		sell[] = {40000,"Coins"};
+		buy[] = {1000000,"Coins"};
+		sell[] = {100000,"Coins"};
 		};	
 		
 		class BAF_AS50_TWS_Large {
 		type = "trade_weapons";
-		buy[] = {400000,"Coins"};
-		sell[] = {40000,"Coins"};
+		buy[] = {1000000,"Coins"};
+		sell[] = {100000,"Coins"};
 		};	
 		
 		class PMC_AS50_TWS_Large {
 		type = "trade_weapons";
-		buy[] = {400000,"Coins"};
-		sell[] = {40000,"Coins"};
+		buy[] = {1000000,"Coins"};
+		sell[] = {100000,"Coins"};
 		};	
 		
 		class PMC_AS50_scoped_Large {
@@ -128,15 +128,45 @@ class Category_694 {
 		
 		class m107_TWS_EP1 {
 		type = "trade_weapons";
-		buy[] = {400000,"Coins"};
-		sell[] = {40000,"Coins"};
+		buy[] = {1000000,"Coins"};
+		sell[] = {100000,"Coins"};
 		};	
 		
 		class m107_TWS_EP1_DZ {
 		type = "trade_weapons";
-		buy[] = {400000,"Coins"};
-		sell[] = {40000,"Coins"};
+		buy[] = {1000000,"Coins"};
+		sell[] = {100000,"Coins"};
 		};	
+		
+		class vil_CG84T {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {100000,"Coins"};
+		};	
+		
+		class vil_Panzerfaust3 {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {100000,"Coins"};
+		};
+		
+		class Vil_PRO_A {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {100000,"Coins"};
+		};
+		
+		class BAF_NLAW_Launcher {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {100000,"Coins"};
+		};
+		
+		class SMAW {
+		type = "trade_weapons";
+		buy[] = {400000,"Coins"};
+		sell[] = {100000,"Coins"};
+		};
 		
 };
 
@@ -232,6 +262,84 @@ class Category_695 {
 		sell[] = {1000,"Coins"};
 		};	
 	
+	class Vil_CG_HEAT {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+		
+	class Vil_CG_HEDP {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+
+	class Vil_CG_84 {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+
+	class Vil_SHMEL_FTW {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+
+	class Vil_PZF3_S_HEAT {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+
+	class Vil_PZF3_T_HEAT {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};	
+		
+	class Vil_PZF3_B_HEDP {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+
+	class NLAW {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+		
+	class NLAW_Big {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+
+	class SMAW_HEAA {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+
+	class SMAW_HEDP {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+
+	class SMAW_HEAA_Big {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+
+	class SMAW_HEDP_Big {
+		type = "trade_items";
+		buy[] = {250000,"Coins"};
+		sell[] = {75000,"Coins"};
+		};
+		
 };
 
 

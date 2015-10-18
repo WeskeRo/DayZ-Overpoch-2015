@@ -29,4 +29,14 @@ class Category_569 {
 		buy[] ={200000,"Coins"};
 		sell[] ={100000,"Coins"};
 	};
+	class HMMWV_M2_USArmy {
+		type = "trade_any_vehicle";
+		buy[] ={250000,"Coins"};
+		sell[] ={100000,"Coins"};
+	};
+	class HMMWV_Mk19_USArmy {
+		type = "trade_any_vehicle";
+		buy[] ={250000,"Coins"};
+		sell[] ={100000,"Coins"};
+	};
 };
