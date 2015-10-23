@@ -57,7 +57,16 @@ DZE_vectorDegrees = [1, 5, 15, 45, 90];
 DZE_curDegree = 45; //Starting rotation angle. //Prefered any value in array above
 DZE_dirWithDegrees = true; //When rotating objects with Q&E, use the custom degrees
 
-EpochEvents = [["any","any","any","any",30,"crash_spawner"],["any","any","any","any",0,"crash_spawner"],["any","any","any","any",15,"supply_drop"],["any","any","any","any",16,"construction"],["any","any","any","any",30,"military"],["any","any","any","any",45,"supplyitems"],["any","any","any","any",59,"treasure"]];
+EpochEvents = [
+["any","any","any","any",0,"crash_spawner"],
+["any","any","any","any",15,"crash_spawner"],
+["any","any","any","any",30,"crash_spawner"],
+["any","any","any","any",45,"crash_spawner"],
+["any","any","any","any",15,"supply_drop"],
+["any","any","any","any",16,"construction"],
+["any","any","any","any",30,"military"],
+["any","any","any","any",45,"supplyitems"],
+["any","any","any","any",59,"treasure"]];
 dayz_fullMoonNights = true;
 
 DZE_ConfigTrader = true;

@@ -4,7 +4,7 @@
 
 if (isServer) then {
 
-
+/*
 // hangar
 _vehicle_389 = objNull;
 if (true) then
@@ -121,7 +121,7 @@ if (true) then
   
   _this setPos [16100.134, 18759.68, 0.12001707];
 };
-
+*/
 
 // IKEA 1
 
