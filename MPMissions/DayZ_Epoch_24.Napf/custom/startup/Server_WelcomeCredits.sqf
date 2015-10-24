@@ -50,13 +50,13 @@ _role3names = ["Gold Coin Currency", "Transport System", "Lift-Tow", "Custom Tra
 _role4 = "RULES";
 _role4names = ["No locked vehicles in tradezones", "No base kamikaze", "No mission crash with vehicles"];
 _role5 = "TeamSpeak 3";
-_role5names = ["87.98.177.180:10001"];
+_role5names = ["51.254.223.190"];
 _role6 = "RESTART";
 _role6names = ["Restart Every 4 Hours"];
 _role7 = "MAINTNANCE";
-_role7names = ["Once in two weeks!","After 14 dayz base will decay!"];
+_role7names = ["NO BASE MANINTENANCE NEEDED!"];
 _role8 = "EXTRA!";
-_role8names = ["Revolution trader is open for busines now!"];
+_role8names = ["Revolution and Jet trader are open for busines now!"];
 {
 sleep 2;
 _memberFunction = _x select 0;
