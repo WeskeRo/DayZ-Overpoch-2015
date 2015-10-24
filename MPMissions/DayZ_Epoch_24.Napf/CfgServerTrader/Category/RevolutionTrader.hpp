@@ -465,6 +465,42 @@ class Category_696 {
 		sell[] = {2000000,"Coins"};
 		};
 		
+		class BAF_L2A1_Tripod_W {
+		type = "trade_any_vehicle";
+		buy[] = {2000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class DSHkM_TK_INS_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {2000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class KORD_high_TK_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {2000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class M2StaticMG_US_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {2000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class Mk19_Tripod_US_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {2000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class SPG9_TK_GUE_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {2000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
 };
 
 class Category_697 {
@@ -624,6 +660,12 @@ class Category_702 {
 		type = "trade_any_vehicle";
 		buy[] = {1000000,"Coins"};
 		sell[] = {850000,"Coins"};
+		};
+		
+		class PMC_SUV {
+		type = "trade_any_vehicle";
+		buy[] = {5000000,"Coins"};
+		sell[] = {1500000,"Coins"};
 		};
 		
 };
