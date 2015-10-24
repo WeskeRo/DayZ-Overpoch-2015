@@ -87,7 +87,7 @@ class Category_510 {
 	};
 	class NVGoggles {
 		type = "trade_weapons";
-		buy[] ={40000,"Coins"};
+		buy[] ={4000,"Coins"};
 		sell[] ={2000,"Coins"};
 	};
 	

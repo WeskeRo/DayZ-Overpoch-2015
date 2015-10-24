@@ -26,8 +26,8 @@ class Category_662 {
 	};
 	class ItemVault {
 		type = "trade_items";
-		buy[] ={100000,"Coins"};
-		sell[] ={100000,"Coins"};
+		buy[] ={25000,"Coins"};
+		sell[] ={15000,"Coins"};
 	};
 	class ItemTentDomed {
 		type = "trade_items";
@@ -56,8 +56,8 @@ class Category_662 {
 	};
       class ItemLockbox {
 	        type = "trade_items";
-		buy[] ={40000,"Coins"};
-		sell[] ={20000,"Coins"};
+		buy[] ={10000,"Coins"};
+		sell[] ={5000,"Coins"};
 	};
 	 class ChainSaw {
 	    type = "trade_weapons";
@@ -128,8 +128,8 @@ class Category_508 {
 	};
 	class ItemVault {
 		type = "trade_items";
-		buy[] ={100000,"Coins"};
-		sell[] ={100000,"Coins"};
+		buy[] ={25000,"Coins"};
+		sell[] ={15000,"Coins"};
 	};
 	class ItemTentDomed {
 		type = "trade_items";
@@ -158,8 +158,8 @@ class Category_508 {
 	};  
      class ItemLockbox {
 	        type = "trade_items";
-		buy[] ={40000,"Coins"};
-		sell[] ={20000,"Coins"};
+		buy[] ={10000,"Coins"};
+		sell[] ={5000,"Coins"};
 	};
 		 class ChainSaw {
 	    type = "trade_weapons";
