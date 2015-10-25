@@ -370,10 +370,10 @@ class Category_696 {
 		sell[] = {400000,"Coins"};
 		};
 		
-		class BTR40_TK_INS_EP1 {
+		class BTR90 {
 		type = "trade_any_vehicle";
-		buy[] = {200000,"Coins"};
-		sell[] = {100000,"Coins"};
+		buy[] = {4000000,"Coins"};
+		sell[] = {2000000,"Coins"};
 		};
 		
 		class LAV25_DZ {
@@ -471,31 +471,37 @@ class Category_696 {
 		sell[] = {1000000,"Coins"};
 		};
 		
-		class DSHkM_TK_INS_EP1 {
+		class DSHkM_Mini_TriPod {
 		type = "trade_any_vehicle";
 		buy[] = {2000000,"Coins"};
 		sell[] = {1000000,"Coins"};
 		};
 		
-		class KORD_high_TK_EP1 {
+		class KORD_high {
 		type = "trade_any_vehicle";
 		buy[] = {2000000,"Coins"};
 		sell[] = {1000000,"Coins"};
 		};
 		
-		class M2StaticMG_US_EP1 {
+		class M2StaticMG {
 		type = "trade_any_vehicle";
 		buy[] = {2000000,"Coins"};
 		sell[] = {1000000,"Coins"};
 		};
 		
-		class Mk19_Tripod_US_EP1 {
+		class MK19_TriPod {
 		type = "trade_any_vehicle";
 		buy[] = {2000000,"Coins"};
 		sell[] = {1000000,"Coins"};
 		};
 		
-		class SPG9_TK_GUE_EP1 {
+		class SPG9_CDF {
+		type = "trade_any_vehicle";
+		buy[] = {2000000,"Coins"};
+		sell[] = {1000000,"Coins"};
+		};
+		
+		class M2HD_mini_Tripod {
 		type = "trade_any_vehicle";
 		buy[] = {2000000,"Coins"};
 		sell[] = {1000000,"Coins"};
