@@ -501,7 +501,7 @@ class Category_696 {
 		sell[] = {1000000,"Coins"};
 		};
 		
-		class M2HD_mini_Tripod {
+		class M2HD_mini_TriPod {
 		type = "trade_any_vehicle";
 		buy[] = {2000000,"Coins"};
 		sell[] = {1000000,"Coins"};
