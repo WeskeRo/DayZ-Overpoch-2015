@@ -668,7 +668,7 @@ class Category_702 {
 		sell[] = {850000,"Coins"};
 		};
 		
-		class PMC_SUV {
+		class SUV_PMC {
 		type = "trade_any_vehicle";
 		buy[] = {5000000,"Coins"};
 		sell[] = {1500000,"Coins"};
