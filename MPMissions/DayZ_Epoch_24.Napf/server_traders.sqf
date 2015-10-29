@@ -179,7 +179,7 @@ menu_Rita_Ensler_EP1 = [
 
 // Revo Vehicles
 menu_US_Soldier_Officer_EP1 = [
-	[["Revo Armors",696],["Revo Birds",697]],  
+	[["Revo Armors",696],["Revo Birds",697],["Revo Statics",734]],  
 	[],
 	"neutral"	
 ];

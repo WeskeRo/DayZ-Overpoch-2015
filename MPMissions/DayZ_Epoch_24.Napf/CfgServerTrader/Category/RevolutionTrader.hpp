@@ -339,6 +339,12 @@ class Category_695 {
 		buy[] = {250000,"Coins"};
 		sell[] = {25000,"Coins"};
 		};
+
+	class Stinger {
+		type = "trade_items";
+		buy[] = {100000,"Coins"};
+		sell[] = {25000,"Coins"};
+		};
 		
 };
 
