@@ -21,6 +21,17 @@ enableSentences false;
 
 // DayZ Epochconfig
 
+ns_blowout = true; // true / false
+
+ns_blowout_dayz = true;// true / false
+
+ns_blow_delaymod = 0.74; //blowout delay
+
+ns_blow_itemapsi = "NVGoggles"; //ItemAPSI replacement
+
+ns_blow_playerdamage = 4000; // damage players without ns_blow_itemapsi can get per blowout
+
+
 DZE_PlotPole=[50,45];
 DZE_SelfTransfuse = true; // default value
 DZE_selfTransfuse_Values = [12000, 15, 300]; // default value
