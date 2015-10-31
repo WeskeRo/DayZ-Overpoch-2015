@@ -74,6 +74,14 @@ _ai6  setMarkerSize [1, 1];
 _ai6  = _ai6;
 
 //USMC base
+
+usmc  = createMarker ["usmc ", [6407.64,10909.2]];
+usmc  setMarkerText "HALLOWEEN LOTTERY";
+usmc  setMarkerType "Warning";
+usmc  setMarkerColor "ColorGREEN";
+usmc  setMarkerSize [1, 1];
+usmc  = usmc;
+
 //usmc  = createMarker ["usmc ", [996.926, 3667.27]];
 //usmc  setMarkerText "USMC BASE";
 //usmc  setMarkerType "Faction_USMC";
