@@ -584,13 +584,14 @@ LOG_CFG_CANLIFT=[
 ---------------------------------------------------------------------------------------------------------------*/ 
 
 LOG_CFG_ISLIFTABLE=[
-"DSHkM_TK_INS_EP1",
-"KORD_high_TK_EP1",
-"M2StaticMG_US_EP1",
-"Mk19_Tripod_US_EP1",
-"SPG9_TK_GUE_EP1",
+"TOW_TriPod",
+"DSHkM_Mini_TriPod",
+"KORD_high",
+"M2StaticMG",
+"Mk19_Tripod",
+"SPG9_CDF",
 "BAF_L2A1_Tripod_W",
-	"ZU23_TK_INS_EP1",
+	"ZU23_TK_EP1",
 	"Stinger_Pod_US_EP1",
 	"2s6m_tunguska",
 	"a10",

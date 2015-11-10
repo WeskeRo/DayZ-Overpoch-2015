@@ -25,11 +25,13 @@ ns_blowout = true; // true / false
 
 ns_blowout_dayz = true;// true / false
 
-ns_blow_delaymod = 0.74; //blowout delay
+ns_blow_delaymod = 0.45; //blowout delay
 
 ns_blow_itemapsi = "NVGoggles"; //ItemAPSI replacement
 
-ns_blow_playerdamage = 4000; // damage players without ns_blow_itemapsi can get per blowout
+ns_blow_playerdamage = 4000; // damage players without ns_blow_itemapsi can get per blowout\
+
+ns_blow_emp = false; //Namalsk Only
 
 
 DZE_PlotPole=[50,45];
@@ -141,6 +143,8 @@ if (!isDedicated) then {
 //Start Dynamic Weather
 //[] execVM "\z\addons\dayz_code\external\DynamicWeatherEffects.sqf";
 
+if (isServer) then { _bul = [ns_blow_emp] execVM "addons\blowout\module\blowout_server.sqf"; };
+if (!isDedicated) then { _bul = [] execVM "addons\blowout\module\blowout_client.sqf"; };
 #include "\z\addons\dayz_code\system\BIS_Effects\init.sqf"
 
 // -- No zombie plotpole --
