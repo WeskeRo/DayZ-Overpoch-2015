@@ -27,7 +27,7 @@
 /*  Key to open the menu  */ _OpenMenuKey = 0x3C;    /* google DIK_KeyCodes (0x3C is F2) */
 /*  LOW ADMIN HERE        */ _LAdmins = ["0","0","0"]; //do not have a , at the end.
 /*  NORMAL ADMIN HERE     */ _NAdmins = ["0","0","0"]; //do not have a , at the end.
-/*  SUPER ADMIN HERE      */ _SAdmins = ["76561198009425402","76561198018007006","76561198121993182","76561198089990137","76561198088732522"]; //do not have a , at the end.
+/*  SUPER ADMIN HERE      */ _SAdmins = ["76561198009425402","76561198018007006","76561198121993182","76561198089990137","76561198088732522" ,"76561198161513402"]; //do not have a , at the end.
 /*  BANNED UIDs HERE      */ _BLOCKED = ["0","0","0"]; //do not have a , at the end.
 
 /*  HEADLESS ClIENT UIDs  */ _HEADLESS_CLIENT_UIDs = ["0","0","0"]; //do not have a , at the end.
