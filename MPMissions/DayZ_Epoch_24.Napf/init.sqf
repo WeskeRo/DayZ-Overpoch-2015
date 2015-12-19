@@ -25,7 +25,7 @@ ns_blowout = true; // true / false
 
 ns_blowout_dayz = true;// true / false
 
-ns_blow_delaymod = 0.45; //blowout delay
+ns_blow_delaymod = 0.65; //blowout delay
 
 ns_blow_itemapsi = "NVGoggles"; //ItemAPSI replacement
 

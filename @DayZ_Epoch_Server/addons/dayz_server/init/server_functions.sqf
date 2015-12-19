@@ -990,7 +990,7 @@ execVM "\z\addons\dayz_server\map\crates.sqf";
 execVM "\z\addons\dayz_server\map\jet.sqf";
 
 execVM "\z\addons\dayz_server\map\misja_ikea.sqf";
-execVM "\z\addons\dayz_server\map\mur.sqf";
+//execVM "\z\addons\dayz_server\map\mur.sqf";
 
 execVM "\z\addons\dayz_server\map\revo_trader.sqf";
 
